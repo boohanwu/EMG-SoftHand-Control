@@ -1,0 +1,4 @@
+0524-five-channel-easy: 5個通道、手勢4種，上、下、左、右
+0524-five-channel-easy: 5個通道、手勢4種，上、下、左、右(切掉頭尾)
+0525-five-channel-medium: 5個通道、手勢6種，左、右、握拳、張開、ok、shaka
+
